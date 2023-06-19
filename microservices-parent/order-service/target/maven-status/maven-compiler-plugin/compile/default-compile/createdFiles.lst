@@ -1,0 +1,8 @@
+com\wvb\orderservice\model\Order.class
+com\wvb\orderservice\OrderServiceApplication.class
+com\wvb\orderservice\repository\OrderRepository.class
+com\wvb\orderservice\model\OrderLineItems.class
+com\wvb\orderservice\dto\OrderLineItemsDto.class
+com\wvb\orderservice\dto\OrderRequest.class
+com\wvb\orderservice\service\OrderService.class
+com\wvb\orderservice\controller\OrderController.class
